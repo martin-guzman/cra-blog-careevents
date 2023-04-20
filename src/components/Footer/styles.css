@@ -1,0 +1,35 @@
+/*  Footer Component Styles */
+
+footer {
+  border-top: 5px solid #94a3ae;
+  background: #364854 ;
+  margin-top: 5rem;
+}
+.footer-container {
+  color: white;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  background: transparent;
+  width: 100%;
+  max-width: 1170px;
+}
+
+address {
+  color: white;
+  font-weight: 400;
+  font-style: normal;
+}
+
+address a {
+  color: white;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  line-height: 2rem;
+}
+
+address a:hover  {
+  text-decoration: underline;
+}
