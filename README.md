@@ -1,9 +1,14 @@
 
 # Event Blog Bootstrapped using Create React App
 
-## Notes: This is a very basic structure with UI Styles
-## Needs additional style formating and content. Especially folder structure and additional comments
-## Data Population: Event placeholder content is called from scr/config/data to allow a fake backend database.
+## Please Note: 
+This is a very basic structure with UI Styles.
+
+Needs additional style formating and content. Especially folder structure and additional comments.
+
+Data Population: Event placeholder content is called from scr/config/data to allow a fake backend database.
+
+Folder naming convention should be changed from Blog to Event.
 
 
 
