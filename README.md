@@ -2,13 +2,16 @@
 # Event Blog Bootstrapped using Create React App
 
 ## Please Note: 
-This is a very basic structure with UI Styles.
+This is a basic bare-bones create-react-app app to create a very simple blog. Some feature like categories and search have been removed from pages/components to simplify and maintain deadline.
 
-Needs additional style formating and content. Especially folder structure and additional comments.
+App still additional style formating and content. Folder structure should be modified and cleaned up. Files lack commenting.
 
 Data Population: Event placeholder content is called from scr/config/data to allow a fake backend database.
 
-Folder naming convention should be changed from Blog to Event.
+Folder/Files/Components naming convention should be changed from Blog to Event.
+
+## react-router-dom@6 package was added to avoid React 18 conflicts.
+
 
 
 
