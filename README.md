@@ -10,11 +10,11 @@ Data Population: Event placeholder content is called from scr/config/data to all
 
 Folder/Files/Components naming convention should be changed from Blog to Event.
 
-## react-router-dom@6 package was added to avoid React 18 conflicts.
+react-router-dom@6 package was added to avoid React 18 conflicts.
 
 
-
-
+###
+###
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
